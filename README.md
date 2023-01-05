@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fabi0wz
-- 👀 I’m interested in ✨ programming ✨
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on just about anything I can help
-- 📫 How to reach me trough here on Github
+- 👀 I’m interested in ✨ software programming, web dev and IOT ✨
+- 🌱 I’m currently learning C++ & Python
+- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/f%C3%A1bio-miguel-615567223/ "Linked In Fábio Gonçalves")
