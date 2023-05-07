@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fabi0wz
-- 👀 I’m interested in ✨ software programming, web dev and IOT ✨
-- 🌱 I’m currently learning C++ & Python
+- 👀 I’m interested in ✨ software engineering and web dev ✨
+- 🌱 I’m currently learning .NET, Laravel and JS
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/f%C3%A1bio-miguel-615567223/ "Linked In Fábio Gonçalves")
