@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fabi0wz
 - 👀 I’m interested in ✨ software engineering and web dev ✨
-- 🌱 I’m currently learning ASP.NET, Laravel and Vue
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/f%C3%A1bio-miguel-615567223/ "Linked In Fábio Gonçalves")
